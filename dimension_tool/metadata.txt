@@ -8,13 +8,13 @@ email=aashishgautam533@gmail.com
 
 about=Draws CAD-style dimension features on the map: linear, aligned, angular, radius, diameter, and leader (callout) dimensions. Each "New Dimension Layer" creates a GeoPackage with a rule-based renderer (a native double-headed QGIS arrow symbol for the dimension line, a thin symbol for extension lines/rays) and a label expression, so styling stays fully editable afterwards through the ordinary Layer Properties panel. Endpoints snap using QGIS's own project snapping settings.
 
-tracker=https://github.com/aashish66/qgis-dimension-plugin/issues
-repository=https://github.com/aashish66/qgis-dimension-plugin
+tracker=https://github.com/aashish66/Dimension_Plugin-QGIS-/issues
+repository=https://github.com/aashish66/Dimension_Plugin-QGIS-
 
 hasProcessingProvider=no
 tags=dimension,cad,measurement,annotation,linear,angular,radius,diameter,leader
 category=Vector
-homepage=https://github.com/aashish66/qgis-dimension-plugin
+homepage=https://github.com/aashish66/Dimension_Plugin-QGIS-
 icon=icons/dimension.svg
 experimental=True
 deprecated=False
